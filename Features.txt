@@ -1,0 +1,28 @@
+This Card Database Websites Features:
+
+1) User can register with their FIFA account and login with new username for the website.
+
+2) Users account will be verified to check is he actually owner of that FIFA account or not.
+
+3) Users can change their profile's privacy setting.
+
+4) Users can reset their accounts password if they forgot.
+
+5) Users can search for their desired cards they want using name, position, country.
+
+6) Users can know their desired player cards estimated market value.
+
+7) Users can preview player cards stats,attributes.
+
+8) Users can compare their player card with other player cards to compare stats.
+
+9) Squad building tool to build squad with their own player cards.
+
+10) Users can trade their player cards with other users.
+
+11) Users can sort their own card inventory by rating or position.
+
+12) Users can wishlist their desired cards for upgraded versions release dates notification.
+
+13) Users can customize their dashboard by hiding or showing recent search, favorite players, news and updates.
+
