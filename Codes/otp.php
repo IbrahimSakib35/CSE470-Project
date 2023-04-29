@@ -54,7 +54,8 @@ if($_SERVER['REQUEST_METHOD']=="POST")
                 if($user_data['otp']===$otp)
                 {
                     $_SESSION['logged_in']=true;
-                    $_SESSION['email']=$result_fetch['email'];
+                    $_SESSION['email']=$user_data['email'];
+                    $_SESSION['fifa_username']=$user_data['fifa_username'];
                     sendNtf($email);
                     header("Location:index.php");
                     exit;
