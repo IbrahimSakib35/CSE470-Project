@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: poppins;
+}
+header{
+    display : flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #e7c91f;
+    color: black;
+    padding: 20px 0;
+
+}
+
+
+
+
+div.auserpage{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0, 0.2);
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+
+
+}
+
+div.auserpage div.alogin{
+    background-color: black;
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px 25px 30px 25px;
+}
+div.auserpage div.alogin h2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    color: #e7c91f;
+}
+div.auserpage div.alogin h2 button{
+    border: none;
+    background-color: transparent;
+    outline: none;
+    font-size: 15px;
+    font-weight: 500;
+    color: #e7c91f;
+}
+div.auserpage div.alogin input{
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #e7c91f;
+    border-radius: 0;
+    padding: 5px 0;
+    font-weight: 500;
+    font-size: 15px;
+    outline: none;
+    
+}
+div.auserpage div.alogin button.algn-btn{
+    font-weight: 500;
+    font-size: 15px;
+    background-color: #e7c91f;
+    color: black;
+    padding: 4px 18px;
+    border: none;
+    outline: none;
+    margin-top: 5px;
+
+}
+.btn{
+    font-weight: 500;
+    font-size: 15px;
+    background-color: #e7c91f;
+    color: black;
+    padding: 2px 5px;
+    border: none;
+    outline: none;
+    margin-top: 1px;
+
+}
