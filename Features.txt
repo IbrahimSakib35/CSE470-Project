@@ -12,7 +12,7 @@ This Card Database Websites Features:
 
 6) Users can know their desired player cards estimated market value.
 
-7) Users can preview player cards stats,attributes.
+7) Users can preview player cards stats,attributes in a card form.
 
 8) Users can compare their player card with other player cards to compare stats.
 
@@ -20,12 +20,16 @@ This Card Database Websites Features:
 
 10) Users can trade their player cards with other users.
 
-11) Users can sort their own card inventory by rating or position.
+11) Users can sort their own card inventory by any stats.
 
-12) Users can wishlist their desired cards for upgraded versions release dates notification.
+12) User can sort their card inventory according to price to know their most or less expensive cards.
+
+12) Users can wishlist their desired cards for upgraded versions release dates notification in their mail.
 
 13) Users can sub or unsub to news and updates according to their preference.
 
 14) Admin login by verifying using email verification.
 
 15) Admin can send news and updates to those who are subscribed to news letter and updates of website.
+
+16) Admin can view trade holds to validate those trades.
