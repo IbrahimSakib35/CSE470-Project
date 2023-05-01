@@ -24,5 +24,8 @@ This Card Database Websites Features:
 
 12) Users can wishlist their desired cards for upgraded versions release dates notification.
 
-13) Users can customize their dashboard by hiding or showing recent search, favorite players, news and updates.
+13) Users can sub or unsub to news and updates according to their preference.
 
+14) Admin login by verifying using email verification.
+
+15) Admin can send news and updates to those who are subscribed to news letter and updates of website.
